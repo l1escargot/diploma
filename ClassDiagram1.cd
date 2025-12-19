@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RecommendationsPlatformsApp.AppCode.EncryptData">
+    <Position X="1.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAGAAAAAAAAAAQAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>AppCode\EncryptData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecommendationsPlatformsApp.AppCode.NamesMy">
+    <Position X="5.75" Y="4.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="RecommendationsPlatformsApp.AppCode.NamesMy.ProgramButtons" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AppCode\NamesMy.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="RecommendationsPlatformsApp.AppCode.NamesMy.ProgramComBoxMessage" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AppCode\NamesMy.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="RecommendationsPlatformsApp.AppCode.NamesMy.SizeOptins" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AppCode\NamesMy.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="RecommendationsPlatformsApp.AppCode.NamesMy.NoDataNames" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AppCode\NamesMy.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="RecommendationsPlatformsApp.AppCode.NamesMy.MessageBoxExaption" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AppCode\NamesMy.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AppCode\NamesMy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecommendationsPlatformsApp.AppCode.ValidationMy">
+    <Position X="3.25" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAABAAAAQAQAAQAgAEAIAABAAAIAgAA=</HashCode>
+      <FileName>AppCode\ValidationMy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Role">
+    <Position X="1.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAABAAAAAAAAAAAAAAAAAAAEAAEAAAAAA=</HashCode>
+      <FileName>AppCode\RoleApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object">
+    <Position X="9" Y="4.75" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
